@@ -4,7 +4,7 @@
 
 # Materials
 (x1) [Raspberry Pi Zero WH](https://amzn.to/49mZVxC)<br />
-(x1) [Raspberry Pi Zero W 2](https://amzn.to/3Ov69Dm)<br />
+(x1) [Raspberry Pi Zero 2 WH](https://amzn.to/3Ov69Dm)<br />
 (x2) [Micro SD Cards](https://amzn.to/48bSKY8)<br />
 (x1) [2.13-inch e-ink Waveshare 4 display](https://amzn.to/3HTGT6h)<br />
 (x1) [2.23inch OLED HAT](https://amzn.to/3V2gCKb)<br />
