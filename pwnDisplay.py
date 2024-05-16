@@ -86,8 +86,7 @@ while True:
         current_date = datetime.now()
         # Draw a black filled box to clear the image.
         draw.rectangle((0,0,width,height), outline=0, fill=0)
-
-
+        
         #Date & Time
         draw.rectangle((0, 0, width, height), outline=0, fill=0)
         linetext(8, str(current_date.strftime("%A") + "         " + str(current_date.strftime("%-I:%M %p"))))
@@ -104,7 +103,6 @@ while True:
             linetext(0, "Brute")
             linetext(16, "" + passwordguess(12))
             buffer(0.025)
-
 
     except(KeyboardInterrupt):
         print("\n")
