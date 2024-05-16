@@ -2,7 +2,7 @@
 ![](images/crackigotchi.jpg)
 
 
-# Bill of Materials
+# Materials
 (x1) [Raspberry Pi Zero WH](https://amzn.to/49mZVxC)<br />
 (x1) [Raspberry Pi Zero W 2](https://amzn.to/3Ov69Dm)<br />
 (x2) [Micro SD Cards](https://amzn.to/48bSKY8)<br />
@@ -10,7 +10,8 @@
 (x1) [2.23inch OLED HAT](https://amzn.to/3V2gCKb)<br />
 (x1) [90-degree GPIO extenders & splitter](https://amzn.to/3Uooea9)<br />
 [Stand-off brackets](https://amzn.to/3St6NSX)<br />
-
+<br />
+_(Amazon affiliate links)_<br />
 ## **Installations**
 
 1. **OS install:**
@@ -22,5 +23,3 @@
     _[Source](https://www.waveshare.com/wiki/2.23inch_OLED_HAT)_
    
 <br />
-<br />
-Note: The provided links are amazon affiliate links.<br />
