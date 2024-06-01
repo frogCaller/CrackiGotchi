@@ -14,7 +14,8 @@
 <br />
 _(Amazon affiliate links)_<br />
 
-# **[Watch the Build](https://www.reddit.com/u/froggyCaller/s/En8RwPh16d)**
+_[WATCH THE BUILD](https://www.reddit.com/u/froggyCaller/s/En8RwPh16d)_
+
 
 ## **Installations**
 
@@ -25,5 +26,9 @@ _(Amazon affiliate links)_<br />
 2. Set up 2.23inch OLED HAT (on Zero 2 W) 
 
     _[Source](https://www.waveshare.com/wiki/2.23inch_OLED_HAT)_
+
+   <br />
+
    
+Also: _[Crackigotchi V2](https://www.reddit.com/user/froggyCaller/comments/1d2z48w/crackigotchi/#lightbox)_
 <br />
