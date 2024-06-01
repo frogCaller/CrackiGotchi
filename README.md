@@ -13,6 +13,9 @@
 [Stand-off brackets](https://amzn.to/3St6NSX)<br />
 <br />
 _(Amazon affiliate links)_<br />
+
+# **[Watch the Build](https://www.reddit.com/u/froggyCaller/s/En8RwPh16d)**
+
 ## **Installations**
 
 1. **OS install:**
