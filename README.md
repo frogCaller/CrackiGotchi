@@ -8,6 +8,7 @@
 (x2) [Micro SD Cards](https://amzn.to/48bSKY8)<br />
 (x1) [2.13-inch e-ink Waveshare 4 display](https://amzn.to/3HTGT6h)<br />
 (x1) [2.23inch OLED HAT](https://amzn.to/3V2gCKb)<br />
+(x1) [Battery pack](https://amzn.to/4e2aQzL)<br />
 (x1) [90-degree GPIO extenders & splitter](https://amzn.to/3Uooea9)<br />
 [Stand-off brackets](https://amzn.to/3St6NSX)<br />
 <br />
