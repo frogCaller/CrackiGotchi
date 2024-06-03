@@ -1,3 +1,8 @@
+# THIS PYTHON SCRIPT DOES NO CRACK ANY PASSWORDS !!
+# IT ONLY DISPLAYS RANDOM PASSWORDS FROM ROCKYOU.TXT
+# & DISPLAYS RANDOM CHARACTERS
+
+
 import time
 import random
 import sys
@@ -100,8 +105,8 @@ while True:
             buffer(0.025)
 
         for m in range(500):  
-            linetext(0, "Brute")
-            linetext(16, "" + passwordguess(12))
+            linetext(0, "Brute Force")
+            linetext(16, "" + passwordguess(15))
             buffer(0.025)
 
     except(KeyboardInterrupt):
