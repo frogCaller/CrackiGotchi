@@ -1,5 +1,5 @@
 # CrackiGotchi
-![](images/crackigotchi.jpg)
+![](images/crackigotchi.gif)
 
 
 # Materials
