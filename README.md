@@ -28,7 +28,13 @@ _[WATCH THE BUILD](https://www.reddit.com/u/froggyCaller/s/En8RwPh16d)_
    - Run sudo raspi-config.
    - Navigate to Interfacing Options -> SPI -> Enable.
    - Navigate to Interfacing Options -> I2C -> Enable.
-
+3. **Python libraries:**
+   - sudo apt-get update
+   - sudo apt-get install python3-pip
+   - sudo apt-get install python3-pil
+   - sudo apt-get install python3-numpy
+   - sudo pip3 install spidev
+   - sudo pip3 install smbus
    <br />
 
 # Wiring and Setup
