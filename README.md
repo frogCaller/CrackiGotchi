@@ -33,8 +33,9 @@ _[WATCH THE BUILD](https://www.reddit.com/u/froggyCaller/s/En8RwPh16d)_
    - sudo apt-get install python3-pip
    - sudo apt-get install python3-pil
    - sudo apt-get install python3-numpy
-   - sudo pip3 install spidev
-   - sudo pip3 install smbus
+   - pip install gpiozero
+   - pip install spidev
+   - pip install smbus
    <br />
 
 # Wiring and Setup
