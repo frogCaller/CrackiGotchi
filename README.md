@@ -40,11 +40,12 @@ _[WATCH THE BUILD](https://www.reddit.com/u/froggyCaller/s/En8RwPh16d)_
   
 
 # Usage Instructions
-1. SSH Access:
+1. Access Raspberry pi Zero 2 W:
+   - Connect a monitor and keyboard to your Raspberry Pi and log in.
    - You can also access your Raspberry Pi remotely using SSH. Use the following command to connect:
    - ssh pi@<your_pi_ip_address>
    
-2. Display Message:
+3. Display Message:
    - Once logged in, navigate to the project directory and run the python script display.
      
      ```
