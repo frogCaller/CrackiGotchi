@@ -33,7 +33,7 @@ _[WATCH THE BUILD](https://www.reddit.com/u/froggyCaller/s/En8RwPh16d)_
 
 # Wiring and Setup
 1. **Connecting the OLED HAT to Raspberry Pi:**
-   - Use the 90-degree GPIO extenders to connect the OLED HAT to the Raspberry Pi. This provides a better viewing angle for the display. <br />
+   - Use the 90-degree GPIO extenders to connect the OLED HAT to the Raspberry Pi. This helps maintain a low profile and compact setup, and also provides a better viewing angle for the display. <br />
 
 2. **Powering the Pi:**
    - If using a Pi Zero 2 W, connect the UPS Hat for continuous power supply. This will allow you to move the project anywhere without worrying about power interruptions.
