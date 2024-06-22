@@ -11,11 +11,11 @@
 * [Battery pack](https://amzn.to/4e2aQzL)<br />
 * [90-degree GPIO extenders & splitter](https://amzn.to/3Uooea9)<br />
 * [Stand-off brackets](https://amzn.to/3St6NSX)<br />
+
+(Amazon affiliate links) <br />
 <br />
-_(Amazon affiliate links)_<br />
 
 _[WATCH THE BUILD](https://www.reddit.com/u/froggyCaller/s/En8RwPh16d)_
-
 
 ## **Installations**
 
